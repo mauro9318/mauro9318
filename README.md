@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👯 I’m looking to collaborate on **Java projects, Python projects, JS projects**
+- 👨‍💻 I’m looking to collaborate on **Java projects, Python projects, JS projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mauro9318/](https://github.com/mauro9318/)
 
